@@ -549,6 +549,11 @@ img {
     border: none;
 }
 
+.footer-form-btn:hover,
+.footer-form-btn:focus {
+    background-color: #404BBF;
+}
+
 .footer-send-icon {
     fill: #fff;
 }
